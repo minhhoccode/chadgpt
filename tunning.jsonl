@@ -1,0 +1,7 @@
+{
+    "messages": [
+      {"role": "system", "content": "Xin chào" },
+      {"role": "user", "content": "Xin chào, Tôi muốn mua một chiếc máy tính xách tay" },
+      {"role": "assistant", "content": "Và bên mình có nhu cầu cụ thể về chức năng của máy không ạ?"}
+    ]
+  }
